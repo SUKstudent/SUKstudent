@@ -97,6 +97,7 @@ Developed a Machine Learning web application as part of a team capstone project.
 **Technologies:** `Python` `Streamlit` `Scikit-learn` `NumPy` `Pandas` `Joblib`
 
 🔗 [View Project](https://github.com/SUKstudent/renewable-energy-prediction-ml)
+
 ---
 
 ## 💼 Internship Experience
