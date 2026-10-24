@@ -1,4 +1,4 @@
-# Bhargavi | Data Analytics Portfolio
+# Bhargavi
 
 ### Turning Data into Meaningful Insights 📊
 
