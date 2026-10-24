@@ -39,6 +39,8 @@ Analyzed historical space mission data to explore mission outcomes, launch trend
 
 **Technologies:** `Python` `Pandas` `EDA` `Power BI` `DAX` `Machine Learning` `Streamlit`
 
+🔗 [View Project](https://github.com/SUKstudent/IBM_CSRBOX) | 🌐 [Live Demo](https://ibmcsrbox.streamlit.app/)
+
 ### 2. 👥 Customer Retention and Cohort Analysis
 
 **Project Type:** Internship Project
@@ -63,6 +65,8 @@ Explored digital payment activity, transaction patterns, and geographic trends u
 
 **Technologies:** `Python` `Power BI` `Data Analysis` `Data Visualization`
 
+🔗 [View Project](https://github.com/SUKstudent/phonepe-pulse-analysis)
+
 ### 5. 🏢 IBM HR Analytics
 
 **Project Type:** Self-Driven Project
@@ -70,6 +74,8 @@ Explored digital payment activity, transaction patterns, and geographic trends u
 Explored HR-related data to investigate workforce patterns and employee trends, using data analysis and visualizations to communicate findings.
 
 **Technologies:** `Python` `Power BI` `Data Analysis` `Data Visualization`
+
+🔗 [View Project](https://github.com/SUKstudent/ibm-hr-analytics)
 
 ### 6. 🏦 Loan Approval/Rejection Analysis
 
@@ -79,8 +85,18 @@ Analyzed loan approval and rejection data to explore patterns in application out
 
 **Technologies:** `Python` `Power BI` `Data Analysis` `Data Visualization`
 
-🔗 *Project repository and demo links will be added when available.*
+🔗 [View Project](https://github.com/SUKstudent/loan-approval-analysis)
 
+### 7. ⚡ Renewable Energy Output Prediction System
+
+**Project Type:** Team Capstone Project  
+**Program:** Edunet Foundation Workshop
+
+Developed a Machine Learning web application as part of a team capstone project. The application predicts renewable energy output based on environmental conditions such as temperature, humidity, wind speed, and solar radiation through an interactive Streamlit interface.
+
+**Technologies:** `Python` `Streamlit` `Scikit-learn` `NumPy` `Pandas` `Joblib`
+
+🔗 [View Project](https://github.com/SUKstudent/renewable-energy-prediction-ml)
 ---
 
 ## 💼 Internship Experience
@@ -132,19 +148,20 @@ Analyzed loan approval and rejection data to explore patterns in application out
 - 🌱 **Green Skills and Artificial Intelligence**
 - 🎯 **Advanced Certification in Data Analytics Program**
 
-🔗 *Certificate verification links can be added when available.*
-
 ---
 
 ## 🏆 Achievements and Recognition
 
 ### 🥇 1st Place — Inter College Technotsava
+
 PPT Presentation on *AI Trends Shaping the Future*, LAEC, Gornaballi, Bidar.
 
 ### 🥈 2nd Place — Brain Bytes Technical Quiz
+
 Part of IEEE Day Celebration 2025, Sharnbasva University, Kalaburagi.
 
 ### 🥉 3rd Place — Project Expo
+
 IETE Zonal Seminar and ISF Congress 2026, IETE Kalaburagi Centre, Sharnbasva University.
 
 ---
@@ -160,5 +177,5 @@ IETE Zonal Seminar and ISF Congress 2026, IETE Kalaburagi Centre, Sharnbasva Uni
 ---
 
 <p align="center">
- <i>Passionate About Data. Focused on Discovery. ✨</i>
+  <i>Passionate About Data. Focused on Discovery. ✨</i>
 </p>
