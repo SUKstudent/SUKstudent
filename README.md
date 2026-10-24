@@ -160,5 +160,5 @@ IETE Zonal Seminar and ISF Congress 2026, IETE Kalaburagi Centre, Sharnbasva Uni
 ---
 
 <p align="center">
-  <i>Driven by Curiosity. Inspired by Data. 💙</i>
+ <i>Passionate About Data. Focused on Discovery. ✨</i>
 </p>
